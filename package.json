@@ -19,7 +19,8 @@
 		"eject": "react-scripts eject",
 		"test1": "jest colorPicker.test.js --forceExit",
 		"test2": "jest addRect.test.js --forceExit",
-		"test3": "jest changeRect.test.js --forceExit"
+		"test3": "jest changeRect.test.js --forceExit",
+		"test4": "jest recoil.test.js --forceExit"
 	},
 	"eslintConfig": {
 		"extends": "react-app"
